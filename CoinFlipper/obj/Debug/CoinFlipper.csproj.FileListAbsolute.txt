@@ -1,0 +1,18 @@
+c:\users\aberhane\documents\visual studio 2017\Projects\CoinFlipper\CoinFlipper\bin\Debug\CoinFlipper.exe.config
+c:\users\aberhane\documents\visual studio 2017\Projects\CoinFlipper\CoinFlipper\bin\Debug\CoinFlipper.exe
+c:\users\aberhane\documents\visual studio 2017\Projects\CoinFlipper\CoinFlipper\bin\Debug\CoinFlipper.pdb
+c:\users\aberhane\documents\visual studio 2017\Projects\CoinFlipper\CoinFlipper\obj\Debug\CoinFlipper.csprojResolveAssemblyReference.cache
+c:\users\aberhane\documents\visual studio 2017\Projects\CoinFlipper\CoinFlipper\obj\Debug\CoinFlipper.Form1.resources
+c:\users\aberhane\documents\visual studio 2017\Projects\CoinFlipper\CoinFlipper\obj\Debug\CoinFlipper.Properties.Resources.resources
+c:\users\aberhane\documents\visual studio 2017\Projects\CoinFlipper\CoinFlipper\obj\Debug\CoinFlipper.csproj.GenerateResource.Cache
+c:\users\aberhane\documents\visual studio 2017\Projects\CoinFlipper\CoinFlipper\obj\Debug\CoinFlipper.exe
+c:\users\aberhane\documents\visual studio 2017\Projects\CoinFlipper\CoinFlipper\obj\Debug\CoinFlipper.pdb
+C:\Users\aberhane\Desktop\CoinFlipper\CoinFlipper\bin\Debug\CoinFlipper.exe.config
+C:\Users\aberhane\Desktop\CoinFlipper\CoinFlipper\bin\Debug\CoinFlipper.exe
+C:\Users\aberhane\Desktop\CoinFlipper\CoinFlipper\bin\Debug\CoinFlipper.pdb
+C:\Users\aberhane\Desktop\CoinFlipper\CoinFlipper\obj\Debug\CoinFlipper.csprojResolveAssemblyReference.cache
+C:\Users\aberhane\Desktop\CoinFlipper\CoinFlipper\obj\Debug\CoinFlipper.Form1.resources
+C:\Users\aberhane\Desktop\CoinFlipper\CoinFlipper\obj\Debug\CoinFlipper.Properties.Resources.resources
+C:\Users\aberhane\Desktop\CoinFlipper\CoinFlipper\obj\Debug\CoinFlipper.csproj.GenerateResource.Cache
+C:\Users\aberhane\Desktop\CoinFlipper\CoinFlipper\obj\Debug\CoinFlipper.exe
+C:\Users\aberhane\Desktop\CoinFlipper\CoinFlipper\obj\Debug\CoinFlipper.pdb
